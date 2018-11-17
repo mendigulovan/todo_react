@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.todo-wrapper {
+  margin: 20px auto;
+  width: 500px;
+  min-height: 500px;
+  border: solid 4px;
+  border-color: #dd99ff;
+  padding: 20px;
+}
